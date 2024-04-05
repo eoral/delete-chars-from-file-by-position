@@ -1,0 +1,10 @@
+
+This line and following line will be deleted.
+
+This line and following line will be emptied.
+
+Some chars from following lines will be deleted.
+
+!"#$%&'()*+,-./0123456789:;<=>?@
+ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`
+abcdefghijklmnopqrstuvwxyz{|}~

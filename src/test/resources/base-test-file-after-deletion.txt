@@ -1,0 +1,8 @@
+
+
+
+Some chars from following lines will be deleted.
+
+!"$%123456789:;<=>?@
+ABCEFRSTUVWXYZ[\]^_`
+abcdfgstuvwxyz{|}~
